@@ -1,0 +1,12 @@
+Nome:
+teste
+CPF:
+1234567
+Tipo de Conta:
+comum
+Saldo:
+30000.0
+Senha:
+123
+Data: 2/1/2022             16:19                    Sua conta foi criada            Saldo Inicial: 10000
+Data: 2/1/2022       16:19      +20000       Tarifa: 0.00    Saldo: 30000.0 
